@@ -7,7 +7,7 @@
   * [VI. REFERENCES](#-references)
 
 
-# I. INTRODUCTION
+# I. INTRODUCTION 
 
 <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenCV (Open Source Computer Vision Library) containing more-than 2500 optimized algorithms that can be used for many different computer vision applications such as face detection and recognition, objective identification, object tracking, image registration and stitching. Cristina (2024). When it comes to identifying dog breeds and overlaying their names on images it addresses the accurately labeling and classifying different dog breeds in real time. With over 300 recognized dog breeds globally, each  breeds has a unique features, identifying dog breeds can be challenging.  But openCV addresses it because it provides tools for images enabling the developers to detect, recognize and process visual effectively. This issue is particularly relevant  in animal adoption centers,dog training schools, and veterinary clinics, wherein they can correctly identify the dog breeds. <br>
