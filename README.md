@@ -69,6 +69,9 @@
 + Analyze the performance accuracy. <br>
 
 # IV. CONCLUSIONS
+<p align="justify"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a number of important areas, this work provides worthwhile learning chances. It improves your comprehension of how to combine machine learning and image processing, particularly when it comes to classifying dog breeds. You can obtain practical experience in data preprocessing, model construction, and evaluation by working with OpenCV and TensorFlow. One example of effective transfer learning is the use of pre-trained models. Through the utilization of pre-trained MobileNetV2 and its adaptation to the particular job, the model effectively identifies dog breeds from pictures. Together with transfer learning, the data augmentation and preprocessing procedures guarantee that the model can generalize effectively while consuming less computing power. Clear and educational visualizations of the output make the model not only useful but also easy to use. In general, this study expands our understanding of artificial intelligence, machine learning, and computer vision, giving us a strong basis on which to use these abilities in practical settings. <br>
+ 
 # V. ADDITIONAL MATERIALS
 # VI. REFERENCES
 
