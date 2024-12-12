@@ -14,7 +14,7 @@
 
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The significance of this projects is to make less complex in breed identification using computer vision and machine learning techniques.In this project the system can save time, improve accuracy and reduce human error.It demonstrates the importance and efficiency of openCV in solving real world problems.<br>
-
+ 
 # II. ABSTRACT
 
 <p align="justify"> 
