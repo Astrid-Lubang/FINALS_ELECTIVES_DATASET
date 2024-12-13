@@ -72,18 +72,18 @@
 <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project demonstrates a dog breed classification pipeline using transfer learning with MobileNetV2. It involves data preprocessing, model training, and displaying predictions with breed names overlayed on images. The approach leverages a pre-trained model to achieve high accuracy with limited data and computational resources.
 
-## Findings
+&nbsp;&nbsp;&nbsp;&nbsp; **Findings**
 - **Data Preprocessing**: Normalization and augmentation for robust training.
 - **Transfer Learning**: MobileNetV2 as the base model.
 - **Breed Prediction**: Classifies and overlays the predicted breed on dog images.
 - **Custom Visualization**: Flexible text positioning for breed names on images.
 
-## Challenges
+&nbsp;&nbsp;&nbsp;&nbsp; **Challenges**
 - Dataset organization and filename inconsistencies.
 - Addressing overfitting due to limited data.
 - Balancing training speed and accuracy through hyperparameter tuning.
 
-## Outcomes
+&nbsp;&nbsp;&nbsp;&nbsp; **Outcomes**
 - Successfully implemented a dog breed classifier with high accuracy.
 - Validated the effectiveness of transfer learning for image classification tasks.
 - Produced a visually informative output for practical use cases.
