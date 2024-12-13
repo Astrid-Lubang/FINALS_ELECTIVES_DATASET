@@ -151,7 +151,7 @@
  -BEAGLE
 <img src= "https://github.com/user-attachments/assets/0b9d44da-c957-4e9d-adcf-7a0cbc3d1b30"style=  "height: 200px;"> <br>
 
--BOXER
+-BOXER <br>
 <img src= "https://github.com/user-attachments/assets/a19e6470-38c6-47e6-8e02-54f0d7ed4486"style=  "height: 200px;"> <br>
 
 -BULLDOG 
