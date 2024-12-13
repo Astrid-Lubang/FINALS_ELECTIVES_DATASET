@@ -1,12 +1,8 @@
 # TABLE OF CONTENTS 
 
-[I. PART 1](#i-PART1)<br>
-    + [ INTRODUCTION](#INTRODUCTION)<br>
-
  * [I. PART 1](#i-PART1) <br>
       + [ INTRODUCTION](introduction) <br>
-      
-  * [II. ABSTRACT](#ii-abstract)
+      + [ ABSTRACT](#ii-abstract) <br>
   * [III. PROJECT METHODS]*
   * [IV. CONCLUSIONS]*
   * [V. ADDITIONAL MATERIALS]*
