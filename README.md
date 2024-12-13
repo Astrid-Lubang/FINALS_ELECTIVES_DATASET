@@ -4,8 +4,9 @@
 * [II. ABSTRACT](#ii-abstract) 
 * [III. PROJECT METHODS](#iii-projectmethods) 
 * [IV. CONCLUSIONS](#iv-conclusions) 
-* [V. ADDITIONAL MATERIALS](#v-additionalmaterials) 
-* [VI. REFERENCES](#vi-references)
+* [V. ADDITIONAL MATERIALS](#v-additionalmaterials)
+* [VI. RECORDED DEMO](#vi-recordeddemo)
+* [VII. REFERENCES](#vii-references)
 
 
 
@@ -269,7 +270,7 @@
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/d91eb9c5-7581-4255-aa58-db084e327755"style=  "height: 280px;"> <br>
  
-## **RECORDED DEMO** <br>
+# VI.RECORDED DEMO 
 
  + ***THE 16 BASIC OpenCV PROJECTS*** <br>
        <p align="justify"> 
@@ -279,7 +280,7 @@
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://youtu.be/XwSmXCalpLw
  
 
-# VI. REFERENCES
+# VII. REFERENCES
 
 <p align="justify">
  
