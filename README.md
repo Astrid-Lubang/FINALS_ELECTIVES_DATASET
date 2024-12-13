@@ -2,6 +2,9 @@
 
 [I. PART 1](#i-PART1)<br>
     + [ INTRODUCTION](#INTRODUCTION)<br>
+
+      * [IV. DOCUMENTATION](#iv-documentation) <br>
+      + [ METHODOLOGY](methodology) <br>
   * [II. ABSTRACT](#ii-abstract)
   * [III. PROJECT METHODS]*
   * [IV. CONCLUSIONS]*
