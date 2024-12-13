@@ -30,7 +30,7 @@
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Efficiently process and manipulate visual data to build practical computer vision solutions.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Perform image and video analysis for real-time object detection and recognition. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Develop systems capable of automating visual tasks, reducing human intervention, and improving accuracy.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Develop systems capable of automating visual tasks, reducing human intervention, and improving accuracy.<br>
 
 <p align="justify">
  
@@ -207,8 +207,14 @@
 # V. ADDITIONAL MATERIALS
 + ***THE 16 BASIC OpenCV PROJECTS*** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CODES FOR THE 16 OpenCV Projects** <br>
+
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/34fb34c4-70ad-46f1-ac41-cc32aef4346f"height: 5px;"> <br>
+<img src= "https://github.com/user-attachments/assets/34fb34c4-70ad-46f1-ac41-cc32aef4346f"style= "height: 250px;"> <br>
+<img src= "https://github.com/user-attachments/assets/621aa0cc-1091-4e35-ace9-60f66f5284fb"style= "height: 60px;"> <br>
+<img src= "https://github.com/user-attachments/assets/987f0d62-af74-478d-a61f-25b779ade0ea"style= "height: 65px;"> <br>
+<img src= "https://github.com/user-attachments/assets/98ab389a-355d-42f3-a40f-4b013109c4cc"style= "height: 180px;"> <br>
+<img src= "https://github.com/user-attachments/assets/b9162d15-dc22-4168-9972-5b593b96b108"style= "height: 110px;"> <br>
+
 
 ---
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
