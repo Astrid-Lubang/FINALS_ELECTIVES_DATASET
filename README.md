@@ -70,7 +70,26 @@
 
 # IV. CONCLUSIONS
 <p align="justify"> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In a number of important areas, this work provides worthwhile learning chances. It improves your comprehension of how to combine machine learning and image processing, particularly when it comes to classifying dog breeds. You can obtain practical experience in data preprocessing, model construction, and evaluation by working with OpenCV and TensorFlow. One example of effective transfer learning is the use of pre-trained models. Through the utilization of pre-trained MobileNetV2 and its adaptation to the particular job, the model effectively identifies dog breeds from pictures. Together with transfer learning, the data augmentation and preprocessing procedures guarantee that the model can generalize effectively while consuming less computing power. Clear and educational visualizations of the output make the model not only useful but also easy to use. In general, this study expands our understanding of artificial intelligence, machine learning, and computer vision, giving us a strong basis on which to use these abilities in practical settings. <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## Overview
+This project demonstrates a dog breed classification pipeline using transfer learning with MobileNetV2. It involves data preprocessing, model training, and displaying predictions with breed names overlayed on images. The approach leverages a pre-trained model to achieve high accuracy with limited data and computational resources.
+
+## Features
+- **Data Preprocessing**: Normalization and augmentation for robust training.
+- **Transfer Learning**: MobileNetV2 as the base model.
+- **Breed Prediction**: Classifies and overlays the predicted breed on dog images.
+- **Custom Visualization**: Flexible text positioning for breed names on images.
+
+## Challenges
+- Dataset organization and filename inconsistencies.
+- Addressing overfitting due to limited data.
+- Balancing training speed and accuracy through hyperparameter tuning.
+
+## Outcomes
+- Successfully implemented a dog breed classifier with high accuracy.
+- Validated the effectiveness of transfer learning for image classification tasks.
+- Produced a visually informative output for practical use cases.
+ <br>
  
 # V. ADDITIONAL MATERIALS
 # VI. REFERENCES
