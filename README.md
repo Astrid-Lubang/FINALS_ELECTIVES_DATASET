@@ -5,7 +5,7 @@
 * [III. PROJECT METHODS](#iii-projectmethods) 
 * [IV. CONCLUSIONS](#iv-conclusions) 
 * [V. ADDITIONAL MATERIALS](#v-additionalmaterials) 
-* [VI. REFERENCES](#vi-references) 
+* [VI. REFERENCES](#vi-references)
 
 
 
