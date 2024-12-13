@@ -206,7 +206,11 @@
  
 # V. ADDITIONAL MATERIALS
 + ***THE 16 BASIC OpenCV PROJECTS*** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CODES FOR THE 16 OpenCV Projects** <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/34fb34c4-70ad-46f1-ac41-cc32aef4346f"height: 5px;"> <br>
 
+---
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CODES FOR IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES** 
  <br>
