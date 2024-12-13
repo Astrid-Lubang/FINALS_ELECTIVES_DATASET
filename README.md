@@ -4,9 +4,9 @@
       + [ INTRODUCTION](introduction) <br>
       + [ ABSTRACT](abstract) <br>
       + [PROJECT METHODS](projectmethods) <br>
-  * [IV. CONCLUSIONS]*
-  * [V. ADDITIONAL MATERIALS]*
-  * [VI. REFERENCES]*
+      + [IV. CONCLUSIONS](conclusions) <br>
+      + [ADDITIONAL MATERIALS](additionalmaterials) <br>
+      + [VI. REFERENCES](references) <br>
 
 
 # I. INTRODUCTION 
