@@ -1,7 +1,7 @@
 # TABLE OF CONTENTS 
 
 [I. PART 1](#i-PART1)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* [INTRODUCTION](#INTRODUCTION)
+    + [INTRODUCTION](#INTRODUCTION)<br>
   * [II. ABSTRACT](#ii-abstract)
   * [III. PROJECT METHODS]*
   * [IV. CONCLUSIONS]*
