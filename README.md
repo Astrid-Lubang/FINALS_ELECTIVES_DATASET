@@ -87,8 +87,29 @@
 # III. PROJECT METHODS
 
 + ***THE 16 BASIC OpenCV PROJECTS*** <br>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The methodology  is how our project will be made.It should be focused on the step by step process  in 16 basic openCV projects.<br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Preparation and library installation**
+- to access the required resources it needs to clone a GitHub repository
 
+&nbsp;&nbsp;&nbsp;&nbsp;**Reading and Displaying Images**
+- Load a colorful image (COLOR.jpg) with OpenCV.
+- Print the shape of the image to understand its dimensions and color channels.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Grayscale Conversion**
+- Convert the loaded image into a grayscale format using OpenCV's cvtColor function.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Canny edge detector**
+- To detect the edges in images we used the Canny edge detector.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Morphological Operations**
+- Dilation: Expands the edges detected by the Canny algorithm.
+- Erosion: Reduces the size of the edges, reversing the effect of dilation to some extent.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Displaying Results**
+- Stack images horizontally to compare original edges, dilated edges, and eroded edges.
+  
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 
 <p align="justify">
