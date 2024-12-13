@@ -26,26 +26,29 @@
 <p align="justify">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the specific objectives that this project aims to achieve: <br>
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Efficiently process and manipulate visual data to build practical computer vision solutions.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Perform image and video analysis for real-time object detection and recognition.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Develop systems capable of automating visual tasks, reducing human intervention, and improving accuracy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Efficiently process and manipulate visual data to build practical computer vision solutions.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Perform image and video analysis for real-time object detection and recognition. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Develop systems capable of automating visual tasks, reducing human intervention, and improving accuracy.<br>
 
 <p align="justify">
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The approach is structured in a progressive manner to build foundational skills and advance toward complex computer vision tasks: <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.  Reading, displaying, and writing images to understand image I/O operations and = performing image resizing and scaling to handle data at varying resolutions. <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Applying color space conversions (e.g., RGB to grayscale, HSV) to isolate features or  adjust visual properties. <br>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Detecting and analyzing contours to identify and track objects in images. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Geometric transformations (e.g., rotation, scaling, and perspective changes) to align or warp images effectively. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.  Reading, displaying, and writing images to understand image I/O operations and = performing image resizing and scaling to handle data at varying resolutions.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Applying color space conversions (e.g., RGB to grayscale, HSV) to isolate features or  adjust visual properties.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Detecting and analyzing contours to identify and track objects in images.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Geometric transformations (e.g., rotation, scaling, and perspective changes) to align or warp images effectively.<br>
 
 <p align="justify">
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the expected outputs of the project:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By becoming proficient in these 16 fundamental OpenCV methods, we are able to:
--Carry out necessary image processing operations such as edge detection, blurring, and filtering.
--Recognize and evaluate items and forms in pictures and videos.
--Utilize image improvements and geometric modifications.
--Develop the fundamental abilities required for more complex machine learning and artificial intelligence applications.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By becoming proficient in these 16 fundamental OpenCV methods, we are able to: <br>
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Carry out necessary image processing operations such as edge detection, blurring, and filtering. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Recognize and evaluate items and forms in pictures and videos. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Utilize image improvements and geometric modifications. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Develop the fundamental abilities required for more complex machine learning and artificial intelligence applications.<br>
 
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 
