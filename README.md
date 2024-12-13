@@ -50,23 +50,31 @@
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The methodology  is how our project will be made .It should be focused on the step by step process in identifying dog breeds by overlaying dog breeds name on their images. <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Step 1: Dataset Preparation**
-+ Collecting labeled dataset of dog images representing different breeds
-+ To ensure consistent size, quality and format <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Step 2: Model Selection and Training**
-+ Evaluate the model using validation data and refine it to improve accuracy. <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Step 3: Integration with OpenCV**
-+ Use OpenCV to load and process input images.
-+ Apply image preprocessing techniques such as resizing and normalization.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; **Dataset Preparation and library installation**
+- Cloned the GitHub repository containing the dog breed dataset.
+- Structured the data into organized folders based on dog breeds.
+- Installed essential libraries: TensorFlow, OpenCV, and Matplotlib.
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Step 4: Overlay Functionality:**
-+ Overlay the identified breed name on the image using OpenCV’s text. <br>
+&nbsp;&nbsp;&nbsp;&nbsp; **Image Visualization**
+- Used OpenCV to read images and Matplotlib for displaying them.
+- Extracted breed names from filenames for annotated visualization.
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Step 5: System Testing**
-+ Test the system on unseen images from the test set to evaluate accuracy.
-+ Analyze the performance accuracy. <br>
+&nbsp;&nbsp;&nbsp;&nbsp; **Model Development**
+- Built a model using MobileNetV2 as the base.
+- Added custom layers for classification and softmax output.
+- Compiled the model with the Adam optimizer and categorical cross-entropy loss.
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Enhanced Model Training Pipeline**
+- Trained the model on the prepared dataset for 5 epochs.
+- Validated performance and ensured generalization.
+- Developed functions for image preprocessing and breed prediction.
+- Displayed test images with annotated predictions using Matplotlib.
+
+ &nbsp;&nbsp;&nbsp;&nbsp; **Evaluation**
+- Tested the model on unseen images.
+- Visualized classification results with accurate breed labels.<br>
 
 # IV. CONCLUSIONS
 <p align="justify"> 
