@@ -46,7 +46,6 @@ The approach is structured in a progressive manner to build foundational skills 
   - Implementing edge detection to identify object boundaries and structural elements.  
 
 - **Advanced Techniques**:  
-  - Conducting morphological transformations like dilation, erosion, and opening to refine image shapes.  
   - Detecting and analyzing contours to identify and track objects in images.  
   - Using histogram calculations to analyze pixel intensity distributions.  
 
