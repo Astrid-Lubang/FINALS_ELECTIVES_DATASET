@@ -2,8 +2,8 @@
 
  * [I. PART 1](#i-PART1) <br>
       + [ INTRODUCTION](introduction) <br>
-      + [ ABSTRACT](#ii-abstract) <br>
-  * [III. PROJECT METHODS]*
+      + [ ABSTRACT](abstract) <br>
+      + [PROJECT METHODS](projectmethods) <br>
   * [IV. CONCLUSIONS]*
   * [V. ADDITIONAL MATERIALS]*
   * [VI. REFERENCES]*
