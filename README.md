@@ -146,18 +146,39 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CODES FOR IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES** 
  <br>
 <p align="justify"> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The displayed image demonstrates a correctly predicted dog breed. The model identified the breed as Poodle, with the breed name overlaid on the image using a clean, legible black background and white text. Testing across multiple dog breeds will validate the model's performance, ensuring accurate breed classification for all test images in the dataset. This systematic evaluation highlights the robustness and reliability of the model.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The displayed image demonstrates a correctly predicted dog breed. The model identified the breed with the breed name overlaid on the image using a clean, legible black background and white text. Testing across multiple dog breeds will validate the model's performance, ensuring accurate breed classification for all test images in the dataset. This systematic evaluation highlights the robustness and reliability of the model.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -BEAGLE<br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/0b9d44da-c957-4e9d-adcf-7a0cbc3d1b30"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -BOXER <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/a19e6470-38c6-47e6-8e02-54f0d7ed4486"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -BULLDOG <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/d7883a6f-3c52-443d-8c6d-0b12c47e941a"style=  "height: 90px;"> <br>
+                                                                                   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -DACHSCHUND <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/b0f744fa-a40b-4a3c-bd0e-ac4e58330cb7"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -GERMAN SHEPHERD <br>
+ <p align="center">
+<img src= "https://github.com/user-attachments/assets/8c32326f-f2bf-40e1-86b2-6e7705b23eb5"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -GOLDEN RETRIEVER <br>
+  <p align="center">
+<img src= "https://github.com/user-attachments/assets/16e35c49-9f79-498a-baa6-7e0ebec9821f"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -LABRADOR RETRIEVER <br>
+   <p align="center">
+<img src= "https://github.com/user-attachments/assets/8261d993-720d-4f15-bc6b-0738cf049932"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -POODLE <br>
+    <p align="center">
+<img src= "https://github.com/user-attachments/assets/b1f0f40e-b530-4d99-a2f4-aff948eb620c"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -ROTTWEILER <br>
+    <p align="center">
+<img src= "https://github.com/user-attachments/assets/87888566-3fb9-48a3-979a-cd71f199d1d4"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-YORKSHIRE TERRIER <br>
+<p align="center">
+<img src= ![image](https://github.com/user-attachments/assets/d91eb9c5-7581-4255-aa58-db084e327755"style=  "height: 90px;"> <br>
  
 ## **RECORDED DEMO** <br>
 
