@@ -90,25 +90,25 @@
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The methodology  is how our project will be made.It should be focused on the step by step process  in 16 basic openCV projects.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Preparation and library installation**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Preparation and library installation**
 - to access the required resources it needs to clone a GitHub repository
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Reading and Displaying Images**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Reading and Displaying Images**
 - Load a colorful image (COLOR.jpg) with OpenCV.
 - Print the shape of the image to understand its dimensions and color channels.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Grayscale Conversion**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Grayscale Conversion**
 - Convert the loaded image into a grayscale format using OpenCV's cvtColor function.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Canny edge detector**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Canny edge detector**
 - To detect the edges in images we used the Canny edge detector.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Morphological Operations**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Morphological Operations**
 - Dilation: Expands the edges detected by the Canny algorithm.
 - Erosion: Reduces the size of the edges, reversing the effect of dilation to some extent.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Displaying Results**
-- Stack images horizontally to compare original edges, dilated edges, and eroded edges.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Displaying Results**
+- Displaying images horizontally to compare original edges, dilated edges, and eroded edges.
   
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 
@@ -117,27 +117,27 @@
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Dataset Preparation and library installation**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dataset Preparation and library installation**
 - Cloned the GitHub repository containing the dog breed dataset.
 - Structured the data into organized folders based on dog breeds.
 - Installed essential libraries: TensorFlow, OpenCV, and Matplotlib.
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Image Visualization**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Image Visualization**
 - Used OpenCV to read images and Matplotlib for displaying them.
 - Extracted breed names from filenames for annotated visualization.
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Model Development**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Model Development**
 - Built a model using MobileNetV2 as the base.
 - Added custom layers for classification and softmax output.
 - Compiled the model with the Adam optimizer and categorical cross-entropy loss.
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Enhanced Model Training Pipeline**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Enhanced Model Training Pipeline**
 - Trained the model on the prepared dataset for 5 epochs.
 - Validated performance and ensured generalization.
 - Developed functions for image preprocessing and breed prediction.
 - Displayed test images with annotated predictions using Matplotlib.
 
- &nbsp;&nbsp;&nbsp;&nbsp; **Evaluation**
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Evaluation**
 - Tested the model on unseen images.
 - Visualized classification results with accurate breed labels.<br>
 
