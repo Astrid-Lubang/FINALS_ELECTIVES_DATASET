@@ -1,12 +1,12 @@
 # TABLE OF CONTENTS 
 
   * [I. PART 1](#i)
-  * [I. INTRODUCTION](#i-introduction)
+  * [I. INTRODUCTION])*
   * [II. ABSTRACT](#ii-abstract)
-  * [III. PROJECT METHODS](#iii-projectmethods)
-  * [IV. CONCLUSIONS](#iv-conclusions)
-  * [V. ADDITIONAL MATERIALS](#v-additionalmaterials)
-  * [VI. REFERENCES](#-references)
+  * [III. PROJECT METHODS]*
+  * [IV. CONCLUSIONS]*
+  * [V. ADDITIONAL MATERIALS]*
+  * [VI. REFERENCES]*
 
 
 # I. INTRODUCTION 
