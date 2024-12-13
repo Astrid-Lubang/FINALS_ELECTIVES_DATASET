@@ -148,6 +148,7 @@
 <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The displayed image demonstrates a correctly predicted dog breed. The model identified the breed with the breed name overlaid on the image using a clean, legible black background and white text. Testing across multiple dog breeds will validate the model's performance, ensuring accurate breed classification for all test images in the dataset. This systematic evaluation highlights the robustness and reliability of the model.<br>
 
+ <p align="center">
  -BEAGLE
  <p align="center">
 <img src= "https://github.com/user-attachments/assets/0b9d44da-c957-4e9d-adcf-7a0cbc3d1b30"style=  "height: 200px;"> <br>
