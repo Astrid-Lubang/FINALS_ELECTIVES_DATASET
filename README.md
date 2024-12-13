@@ -131,13 +131,13 @@
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/554c5f35-584a-4bdd-b575-6a306502c233"style=  "height: 220px;"> <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/9d8a51b3-2264-4809-ba16-5557bdd71fe7"style=  "height: 300px;"> <br>
+<img src= "https://github.com/user-attachments/assets/9d8a51b3-2264-4809-ba16-5557bdd71fe7"style=  "height: 350px;"> <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/cd35c0d0-3b3d-48dd-ae75-84b443def851"style=  "height: 80px;"> <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/3a00eb53-4b21-446d-b779-cd57752162c6"style=  "height: 200px;"> <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/8ad429f4-2b34-4e54-9b8d-35bf6b004bc9"style=  "height: 90px;"> <br>
+<img src= "https://github.com/user-attachments/assets/8ad429f4-2b34-4e54-9b8d-35bf6b004bc9"style=  "height: 80px;"> <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/f3c42353-204f-446e-980b-b7db23bf3915"style=  "height: 260px;"> <br>
 <p align="center">
