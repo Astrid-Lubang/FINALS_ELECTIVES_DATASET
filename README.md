@@ -1,5 +1,6 @@
 # TABLE OF CONTENTS 
-*[PART 1]
+
+  * [I. PART 1](#i)
   * [I. INTRODUCTION](#i-introduction)
   * [II. ABSTRACT](#ii-abstract)
   * [III. PROJECT METHODS](#iii-projectmethods)
