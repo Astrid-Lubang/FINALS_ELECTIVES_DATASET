@@ -31,31 +31,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Develop systems capable of automating visual tasks, reducing human intervention, and improving accuracy.
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following is the approach to achieve the project objectives: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The approach is structured in a progressive manner to build foundational skills and advance toward complex computer vision tasks: <br>
 
-- **Basic Operations**:  
-  - Reading, displaying, and writing images to understand image I/O operations.  
-  - Performing image resizing and scaling to handle data at varying resolutions.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.  Reading, displaying, and writing images to understand image I/O operations and = performing image resizing and scaling to handle data at varying resolutions. <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Applying color space conversions (e.g., RGB to grayscale, HSV) to isolate features or  adjust visual properties. <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Detecting and analyzing contours to identify and track objects in images. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Geometric transformations (e.g., rotation, scaling, and perspective changes) to align or warp images effectively. <br>
 
-- **Intermediate Processing**:  
-  - Applying color space conversions (e.g., RGB to grayscale, HSV) to isolate features or adjust visual properties.  
-  - Utilizing thresholding techniques for segmenting images into regions of interest.  
-  - Implementing edge detection to identify object boundaries and structural elements.  
-
-- **Advanced Techniques**:  
-  - Detecting and analyzing contours to identify and track objects in images.  
-  - Using histogram calculations to analyze pixel intensity distributions.  
-
-- **Feature Extraction and Matching**:  
-  - Detecting keypoints and matching features across images to identify similarities and transformations.  
-  - Geometric transformations (e.g., rotation, scaling, and perspective changes) to align or warp images effectively.  
-
-- **Object Detection and Video Analysis**:  
-  - Leveraging pre-trained models for object detection tasks such as face recognition or object classification.  
-  - Analyzing motion in videos to track objects and understand dynamic visual scenes.
-  <br>
-
-  <p align="justify">
+<p align="justify">
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the expected outputs of the project:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By becoming proficient in these 16 fundamental OpenCV methods, we are able to:
 -Carry out necessary image processing operations such as edge detection, blurring, and filtering.
