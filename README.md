@@ -22,6 +22,10 @@
  
 # II. ABSTRACT
 
++ ***THE 16 BASIC OpenCV PROJECTS*** <br>
+
++ ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
+
 <p align="justify"> 
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The main objective of this project is to identifying dog breeds by overlaying breed names on their images with the help of openCV.This approach demonstrates the practical application of computer vision in simplifying breed recognition, offering a user-friendly solution for pet owners, shelters, and veterinary clinics. <br>
@@ -51,6 +55,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. A demonstration of how OpenCV and machine learning can be integrated to solve practical problems efficiently.<br>
 
 # III. PROJECT METHODS
+
++ ***THE 16 BASIC OpenCV PROJECTS*** <br>
+
++ ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The methodology  is how our project will be made .It should be focused on the step by step process in identifying dog breeds by overlaying dog breeds name on their images. <br>
@@ -82,6 +90,10 @@
 - Visualized classification results with accurate breed labels.<br>
 
 # IV. CONCLUSIONS
+
++ ***THE 16 BASIC OpenCV PROJECTS*** <br>
+
++ ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project demonstrates a dog breed classification pipeline using transfer learning with MobileNetV2. It involves data preprocessing, model training, and displaying predictions with breed names overlayed on images. The approach leverages a pre-trained model to achieve high accuracy with limited data and computational resources.
 
@@ -103,6 +115,10 @@
  <br>
  
 # V. ADDITIONAL MATERIALS
++ ***THE 16 BASIC OpenCV PROJECTS*** <br>
+
++ ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
+
 # VI. REFERENCES
 
 <p align="justify">
