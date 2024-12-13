@@ -158,14 +158,14 @@
    - Morphological operations like dilation and erosion highlighted their impact on edge refinement. These operations can enhance or suppress certain image features, depending on the application.
 
 3. **Use of Python and OpenCV in Google Colab:**  
-   The integration of OpenCV and Google Colab provides a flexible environment for learning and prototyping. The use of `cv2_imshow` for displaying images ensures compatibility with Colab’s output system.
+   The integration of OpenCV and Google Colab provides a flexible environment for learning and prototyping. The use of **cv2_imshow** for displaying images ensures compatibility with Colab’s output system.
 
 ### **Challenges**
 1. **Path Management Issues:**  
-   The hardcoded file paths, may cause errors if the environment or directory structure changes. A dynamic approach, such as using `os` for path handling, would improve robustness.
+   The hardcoded file paths, may cause errors if the environment or directory structure changes. A dynamic approach, such as using **os** for path handling, would improve robustness.
 
 2. **Image Quality and Parameters:**  
-   The outcomes of operations like edge detection and morphological transformations are highly sensitive to parameter choices (e.g., threshold values in `cv2.Canny` and kernel size in dilation/erosion). Fine-tuning these parameters for optimal results may be challenging, especially for beginners.
+   The outcomes of operations like edge detection and morphological transformations are highly sensitive to parameter choices (e.g., threshold values in **cv2.Canny** and kernel size in dilation/erosion). Fine-tuning these parameters for optimal results may be challenging, especially for beginners.
 
 3. **Incomplete Documentation:**  
    Some sections, such as "Lesson 3: Image Manipulation," are mentioned but not fully implemented or explained. Providing detailed explanations for each step would enhance clarity.
