@@ -118,7 +118,24 @@
 + ***THE 16 BASIC OpenCV PROJECTS*** <br>
 
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.1 Importing Datasets** 
+ <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/912ef135-acfc-490c-af2e-fe2ed400eae2"style=  "height: 180px;"> <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/ea30256d-6082-48c0-acb5-ced9912976cb"style=  "height: 180px;"> <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/633052aa-69cc-46c7-bd29-ee6e2e588f52"style=  "height: 180px;"> <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/f87ede43-6beb-423b-843a-4fcebcb84a21"style=  "height: 180px;"> <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/554c5f35-584a-4bdd-b575-6a306502c233"style=  "height: 180px;"> <br>
+ <p align="center">
+<img src= "https://github.com/user-attachments/assets/5da99bdc-b197-4522-a580-80a8bfd7ecf4"style=  "height: 180px;"> <br>
+<p align="center">
+<img src= "https://github.com/user-attachments/assets/633052aa-69cc-46c7-bd29-ee6e2e588f52"style=  "height: 180px;"> <br>
 
+  
 ## **RECORDED DEMO** <br>
 
  + ***THE 16 BASIC OpenCV PROJECTS*** <br>
