@@ -36,7 +36,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The approach is structured in a progressive manner to build foundational skills and advance toward complex computer vision tasks: <br>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.  Reading, displaying, and writing images to understand image I/O operations and = performing image resizing and scaling to handle data at varying resolutions.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.  Reading, displaying, and writing images and performing image resizing and scaling to handle data at varying resolutions.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Applying color space conversions (e.g., RGB to grayscale, HSV) to isolate features or  adjust visual properties.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Detecting and analyzing contours to identify and track objects in images.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Geometric transformations (e.g., rotation, scaling, and perspective changes) to align or warp images effectively.<br>
