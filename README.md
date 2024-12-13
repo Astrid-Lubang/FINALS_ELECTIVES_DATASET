@@ -178,7 +178,7 @@
 <img src= "https://github.com/user-attachments/assets/87888566-3fb9-48a3-979a-cd71f199d1d4"style=  "height: 90px;"> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-YORKSHIRE TERRIER <br>
 <p align="center">
-<img src= ![image](https://github.com/user-attachments/assets/d91eb9c5-7581-4255-aa58-db084e327755"style=  "height: 90px;"> <br>
+<img src= "https://github.com/user-attachments/assets/d91eb9c5-7581-4255-aa58-db084e327755"style=  "height: 90px;"> <br>
  
 ## **RECORDED DEMO** <br>
 
