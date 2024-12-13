@@ -25,7 +25,8 @@
 + ***THE 16 BASIC OpenCV PROJECTS*** <br>
 <p align="justify">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the specific objectives that this project aims to achieve: <br>
- 
+
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Efficiently process and manipulate visual data to build practical computer vision solutions.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Perform image and video analysis for real-time object detection and recognition. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Develop systems capable of automating visual tasks, reducing human intervention, and improving accuracy.<br>
@@ -34,6 +35,7 @@
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The approach is structured in a progressive manner to build foundational skills and advance toward complex computer vision tasks: <br>
 
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.  Reading, displaying, and writing images to understand image I/O operations and = performing image resizing and scaling to handle data at varying resolutions.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Applying color space conversions (e.g., RGB to grayscale, HSV) to isolate features or  adjust visual properties.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Detecting and analyzing contours to identify and track objects in images.<br>
@@ -42,7 +44,6 @@
 <p align="justify">
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the expected outputs of the project:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By becoming proficient in these 16 fundamental OpenCV methods, we are able to: <br>
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Carry out necessary image processing operations such as edge detection, blurring, and filtering. <br>
@@ -59,6 +60,7 @@
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the specific objectives that this project aims to achieve: <br>
 
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. To develop a system that is capable of accurately  identifying dog breeds from images using computer vision. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. To implement functionality in overlay the identified dog breeds name directly on the dogs image.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. To create an intuitive  interface for users, enabling easy uploads and display results<br>
@@ -67,6 +69,7 @@
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following is the approach to achieve the project objectives: <br>
 
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Gather dataset of dog images  representing  a wide variety of dogs.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Model selection and training for image classification and pre trained models.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Use openCV to process inputs and detect the dogs images.<br>
@@ -74,7 +77,8 @@
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the expected outputs of the project:<br>
-  
+
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. A fully functional system capable of identifying dog breed images with high accuracy of 80-90%.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Overlaying of breed names on processed images.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. A user friendly tool that identify the dog breeds for variety applications, such as animal shelters, pet owners and veterinary.<br>
