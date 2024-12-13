@@ -148,16 +148,16 @@
 <p align="justify"> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The displayed image demonstrates a correctly predicted dog breed. The model identified the breed as Poodle, with the breed name overlaid on the image using a clean, legible black background and white text. Testing across multiple dog breeds will validate the model's performance, ensuring accurate breed classification for all test images in the dataset. This systematic evaluation highlights the robustness and reliability of the model.<br>
 
- -BEAGLE
- -BOXER
- -BULLDOG
- -DACHSCHUND
- -GERMAN SHEPHERD
- -GOLDEN RETRIEVER
- -LABRADOR RETRIEVER
- -POODLE
- -ROTTWEILER
- -YORKSHIRE TERRIER
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -BEAGLE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -BOXER <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -BULLDOG <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -DACHSCHUND <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -GERMAN SHEPHERD <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -GOLDEN RETRIEVER <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -LABRADOR RETRIEVER <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -POODLE <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -ROTTWEILER <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-YORKSHIRE TERRIER <br>
  
 ## **RECORDED DEMO** <br>
 
