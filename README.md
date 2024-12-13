@@ -120,8 +120,10 @@
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 
 ## **RECORDED DEMO** <br>
+
  + ***THE 16 BASIC OpenCV PROJECTS*** <br>
-   -
+       <p align="justify"> 
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
        <p align="justify"> 
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://youtu.be/XwSmXCalpLw
