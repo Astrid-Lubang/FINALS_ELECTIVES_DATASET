@@ -118,7 +118,7 @@
 + ***THE 16 BASIC OpenCV PROJECTS*** <br>
 
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **1.1 Importing Datasets** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CODES FOR IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES** 
  <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/912ef135-acfc-490c-af2e-fe2ed400eae2"style=  "height: 90px;"> <br>
@@ -142,7 +142,23 @@
 <img src= "https://github.com/user-attachments/assets/f3c42353-204f-446e-980b-b7db23bf3915"style=  "height: 350px;"> <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/7c987ec1-723b-4c95-b772-449f5115aa1e"style=  "height: 180px;"> <br>
-  
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CODES FOR IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES** 
+ <br>
+<p align="justify"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The displayed image demonstrates a correctly predicted dog breed. The model identified the breed as Poodle, with the breed name overlaid on the image using a clean, legible black background and white text. Testing across multiple dog breeds will validate the model's performance, ensuring accurate breed classification for all test images in the dataset. This systematic evaluation highlights the robustness and reliability of the model.<br>
+
+ -BEAGLE
+ -BOXER
+ -BULLDOG
+ -DACHSCHUND
+ -GERMAN SHEPHERD
+ -GOLDEN RETRIEVER
+ -LABRADOR RETRIEVER
+ -POODLE
+ -ROTTWEILER
+ -YORKSHIRE TERRIER
+ 
 ## **RECORDED DEMO** <br>
 
  + ***THE 16 BASIC OpenCV PROJECTS*** <br>
