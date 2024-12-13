@@ -23,18 +23,15 @@
 # II. ABSTRACT
 
 + ***THE 16 BASIC OpenCV PROJECTS*** <br>
-
-### **Objective**  
+<p align="justify">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the specific objectives that this project aims to achieve: <br>
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Efficiently process and manipulate visual data to build practical computer vision solutions.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Perform image and video analysis for real-time object detection and recognition.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Develop systems capable of automating visual tasks, reducing human intervention, and improving accuracy.
 
 <p align="justify">
- 
-The primary goal is to equip users with the tools and knowledge required to:  
-- Efficiently process and manipulate visual data to build practical computer vision solutions.  
-- Perform image and video analysis for real-time object detection and recognition.  
-- Develop systems capable of automating visual tasks, reducing human intervention, and improving accuracy.
-
-### **Approach**  
-The approach is structured in a progressive manner to build foundational skills and advance toward complex computer vision tasks:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following is the approach to achieve the project objectives: <br>
 
 - **Basic Operations**:  
   - Reading, displaying, and writing images to understand image I/O operations.  
@@ -55,9 +52,16 @@ The approach is structured in a progressive manner to build foundational skills 
 
 - **Object Detection and Video Analysis**:  
   - Leveraging pre-trained models for object detection tasks such as face recognition or object classification.  
-  - Analyzing motion in videos to track objects and understand dynamic visual scenes.  
+  - Analyzing motion in videos to track objects and understand dynamic visual scenes.
+  <br>
 
-By following this structured approach, the study demonstrates how OpenCV's comprehensive set of tools can be used to build real-world applications for diverse industries and domains. <br>
+  <p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following are the expected outputs of the project:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By becoming proficient in these 16 fundamental OpenCV methods, we are able to:
+-Carry out necessary image processing operations such as edge detection, blurring, and filtering.
+-Recognize and evaluate items and forms in pictures and videos.
+-Utilize image improvements and geometric modifications.
+-Develop the fundamental abilities required for more complex machine learning and artificial intelligence applications.
 
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 
