@@ -260,8 +260,6 @@
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/f87ede43-6beb-423b-843a-4fcebcb84a21"style=  "height: 70px;"> <br>
 <p align="center">
-<img src= "https://github.com/user-attachments/assets/554c5f35-584a-4bdd-b575-6a306502c233"style=  "height: 250px;"> <br>
-<p align="center">
 <img src= "https://github.com/user-attachments/assets/9d8a51b3-2264-4809-ba16-5557bdd71fe7"style=  "height: 500px;"> <br>
 <p align="center">
 <img src= "https://github.com/user-attachments/assets/cd35c0d0-3b3d-48dd-ae75-84b443def851"style=  "height: 80px;"> <br>
