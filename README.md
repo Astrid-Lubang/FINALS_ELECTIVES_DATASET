@@ -215,7 +215,7 @@
    The model correctly classifies different dog breeds with high prediction accuracy for a variety of images. This shows the model's strong capability to handle real-world images and make subtle distinctions between similar breeds.
 
 4. **Transfer Learning Validation:**  
-  Using MobileNetV2 as the base model, the project demonstrated the power of transfer learning for image classification tasks. The pre-trained network gave a solid foundation that improved performance even when there was a lack of training data
+  Using MobileNetV2 as the base model, the project demonstrated the power of transfer learning for image classification tasks. The pre-trained network gave a solid foundation that improved performance even when there was a lack of training data.
    
 3. **Practical Use Case Output:**  
  The feature is of practical utility, where on an image, it provides direct superimposition with predicted breed names. Hence, visual feedback becomes instantaneously better and practical during a live scenario for insights in an actionable manner.
