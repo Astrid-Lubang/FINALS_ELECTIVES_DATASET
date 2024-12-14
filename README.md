@@ -194,14 +194,33 @@
 - **Custom Visualization**: Flexible text positioning for breed names on images.
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Challenges**
-- Dataset organization and filename inconsistencies.
-- Addressing overfitting due to limited data.
-- Balancing training speed and accuracy through hyperparameter tuning.
+1. **Path Management Issues:**  
+   The usage of hard-coded file paths may lead to errors whenever the environment or the directory structure changes. Dynamic handling of path can be achieved by modules.
+
+2. **Approach**  
+   In order to make handling files easier, we will employ OS for dynamic path management for the problems mentioned above. To obtain the best results, we will also experiment with various image processing parameter adjustments. In order to improve usability and comprehension, we also improve documentation by adding appropriate descriptions for every step.
+
+4. **Availability of Sources:**  
+   Some techniques in the project might lack references or documentation, which could limit the ability to cross-check procedures and results and make them less reproducible.
+   
+3. **Epoch Waiting Time:**  
+   Training the model results in long waiting times when dealing with larger datasets or if it is a complex model since the training speed and efficiency have to be affected.
 
 &nbsp;&nbsp;&nbsp;&nbsp; **Outcomes**
-- Successfully implemented a dog breed classifier with high accuracy.
-- Validated the effectiveness of transfer learning for image classification tasks.
-- Produced a visually informative output for practical use cases.
+
+1. **Overcoming the Challenges of Projects: Maximizing Path Handling, Performance, and Documentation**  
+    We implemented dynamic path handling along with fine-tuning image processing techniques to reduce file management problems and improve model performance. Documentation improvement helped smooth out procedures, and expectations in terms of training time bettered efficiency. With minimum availability of source, still transparency has enhanced reproducibility leading to a more robust user-friendly way of dealing with all project challenges.
+
+3. **Dog Breed Classifier:**  
+   The model correctly classifies different dog breeds with high prediction accuracy for a variety of images. This shows the model's strong capability to handle real-world images and make subtle distinctions between similar breeds.
+
+4. **Transfer Learning Validation:**  
+  Using MobileNetV2 as the base model, the project demonstrated the power of transfer learning for image classification tasks. The pre-trained network gave a solid foundation that improved performance even when there was a lack of training data
+   
+3. **Practical Use Case Output:**  
+ The feature is of practical utility, where on an image, it provides direct superimposition with predicted breed names. Hence, visual feedback becomes instantaneously better and practical during a live scenario for insights in an actionable manner.
+
+
  <br>
  
 # V. ADDITIONAL MATERIALS
