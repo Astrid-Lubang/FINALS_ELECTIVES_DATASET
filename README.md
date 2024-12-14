@@ -224,12 +224,10 @@
 <img src= "https://github.com/user-attachments/assets/b8888632-3529-4fed-8edb-502142e5955e"style= "height: 180px;"> <br>
 <img src= "https://github.com/user-attachments/assets/7626c04a-4fea-451b-883d-bafc322a6d83"style= "height: 350px;"> <br>
 <img src= "https://github.com/user-attachments/assets/ca7f1d6e-af1a-493e-863c-60672617785a"style= "height: 310px;"> <br>
-<img src= "https://github.com/user-attachments/assets/07c10c24-1539-416e-81f6-53ad127688f5"style= "height: 120px;"> <br>
-
-
-
-
-
+<img src= "https://github.com/user-attachments/assets/07c10c24-1539-416e-81f6-53ad127688f5"style= "height: 150px;"> <br>
+<img src= "https://github.com/user-attachments/assets/1a951c12-031a-4194-9970-8d2942c884f1"style= "height: 300px;"> <br>
+<img src= "https://github.com/user-attachments/assets/8567ca2d-f4a3-40e1-88cc-1e453fcfdc08"style= "height: 270px;"> <br>
+ 
 ---
 + ***IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES ON THEIR IMAGES*** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CODES FOR IDENTIFYING DOG BREEDS BY OVERLAYING BREED NAMES** 
